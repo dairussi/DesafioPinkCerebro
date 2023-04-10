@@ -1,0 +1,15 @@
+/home/daianarussi/Documentos/DesafioPinkCerebro/bin/Debug/net6.0/DesafioPinkCerebro
+/home/daianarussi/Documentos/DesafioPinkCerebro/bin/Debug/net6.0/DesafioPinkCerebro.deps.json
+/home/daianarussi/Documentos/DesafioPinkCerebro/bin/Debug/net6.0/DesafioPinkCerebro.runtimeconfig.json
+/home/daianarussi/Documentos/DesafioPinkCerebro/bin/Debug/net6.0/DesafioPinkCerebro.dll
+/home/daianarussi/Documentos/DesafioPinkCerebro/bin/Debug/net6.0/ref/DesafioPinkCerebro.dll
+/home/daianarussi/Documentos/DesafioPinkCerebro/bin/Debug/net6.0/DesafioPinkCerebro.pdb
+/home/daianarussi/Documentos/DesafioPinkCerebro/obj/Debug/net6.0/DesafioPinkCerebro.csproj.AssemblyReference.cache
+/home/daianarussi/Documentos/DesafioPinkCerebro/obj/Debug/net6.0/DesafioPinkCerebro.GeneratedMSBuildEditorConfig.editorconfig
+/home/daianarussi/Documentos/DesafioPinkCerebro/obj/Debug/net6.0/DesafioPinkCerebro.AssemblyInfoInputs.cache
+/home/daianarussi/Documentos/DesafioPinkCerebro/obj/Debug/net6.0/DesafioPinkCerebro.AssemblyInfo.cs
+/home/daianarussi/Documentos/DesafioPinkCerebro/obj/Debug/net6.0/DesafioPinkCerebro.csproj.CoreCompileInputs.cache
+/home/daianarussi/Documentos/DesafioPinkCerebro/obj/Debug/net6.0/DesafioPinkCerebro.dll
+/home/daianarussi/Documentos/DesafioPinkCerebro/obj/Debug/net6.0/ref/DesafioPinkCerebro.dll
+/home/daianarussi/Documentos/DesafioPinkCerebro/obj/Debug/net6.0/DesafioPinkCerebro.pdb
+/home/daianarussi/Documentos/DesafioPinkCerebro/obj/Debug/net6.0/DesafioPinkCerebro.genruntimeconfig.cache
